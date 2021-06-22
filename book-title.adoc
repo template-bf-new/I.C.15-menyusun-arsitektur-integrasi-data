@@ -1,0 +1,37 @@
+= Dokumen Arsitektur Integrasi Data
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Hasil Telaah Ulang Kebutuhan Integrasi Data Organisasi
+
+== Hasil Pendefinisian Pemanfaatan Integrasi Data Bagi Organisasi
+
+== Hasil Kajian Arsitektur Data yang Akan Diintegrasikan
+
+== Hasil Analisis dan Identifikasi Jenis Teknologi Integrasi Data yang Akan Digunakan Organisasi
+
+== Arsitektur Integrasi Data
+
+== Dokumentasi Hasil Penyusunan Arsitektur Integrasi Data
